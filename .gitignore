@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# External source clones (fetched separately, not part of this project's own history)
+bible-importer/bible_databases/
+bible-importer/sblgnt/
+bible-importer/data/bible_databases/
+bible-importer/data/biblia/
+bible-importer/data/morphhb/
+bible-importer/data/sblgnt/
